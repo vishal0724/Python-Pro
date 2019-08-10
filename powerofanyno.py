@@ -1,0 +1,5 @@
+y=int(input("enter the useable no.:"))
+power=int(input("enter the power:"))
+print("power=:",y**power)
+a=int(input ("enter the useable no.:"))
+print("squareroot of the no.=:",a**1/2)
